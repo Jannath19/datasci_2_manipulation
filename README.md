@@ -26,6 +26,5 @@ The assignment consists of the following steps:
    - Aggregating data using groupby and pivot tables
 
 3. Introduction to Alternative Libraries:
-   - Reading about Polars, Dask, and Modin
    - Loading the dataset using Polars and comparing load times
 
